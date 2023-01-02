@@ -1,0 +1,41 @@
+body{
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 350px;
+    border-radius: 10px;
+    padding:20px;
+
+}
+
+button{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border:none;
+    cursor: pointer;
+}
+
+.input-area-container {
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-area-container {
+    width: 550px;
+    word-break: break-word;
+    text-align: center;
+}
+
+#text{
+    font-size:26px;
+}
