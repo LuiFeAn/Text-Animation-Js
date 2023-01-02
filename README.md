@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto/a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 ## 🚀 Tecnologias
 
 Tecnologias utilizadas:
--[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
--[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://www.javascript.com/)
 
 ## 💻 Projeto
 
-Projeto simples feito apenas para criar uma animação de texto dinâmica com javascript
+Projeto simples feito apenas para criar um(a) efeito/animação de texto dinâmico com javascript
