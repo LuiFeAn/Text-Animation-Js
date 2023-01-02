@@ -1,4 +1,4 @@
-function slowedText(text, textArea, options = { time: 800 }){
+function slowedTextAnimation(text, textArea, options = { time: 800 }){
 
     if( textArea.innerHTML.length > 0 ){
         textArea.innerHTML = '';
